@@ -9,28 +9,7 @@ CondinGo is a versatile online code editor that supports over 40 programming lan
 - **Monaco Code Editor:** Benefit from the powerful and feature-rich Monaco Code Editor for an enhanced coding experience.
 - **Responsive Design:** Enjoy a responsive and user-friendly interface built with ReactJS and Tailwind CSS.
 
-## Getting Started
 
-To get started with CondinGo, follow these simple steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/ishitaraina1807/CondinGo.git
-   cd CondinGo
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Run the Application:**
-   ```bash
-   npm start
-   ```
-
-4. **Open in Browser:**
-   Visit `http://localhost:3000` in your web browser.
 
 ## Technologies Used
 
