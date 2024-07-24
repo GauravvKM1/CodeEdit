@@ -1,4 +1,5 @@
-# CondinGo
+# CodeEdit
+
 
 CondinGo is a versatile online code editor that supports over 40 programming languages. With its seamless integration of ReactJS, Tailwind CSS, Monaco Code Editor, Judge0 API, and RapidAPI, condinGo empowers developers to write, compile, and execute code in a user-friendly environment.
 
